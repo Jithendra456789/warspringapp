@@ -1,0 +1,3 @@
+com\example\myspringwar\MyspringwarApplication.class
+com\example\myspringwar\controller\MyController.class
+com\example\myspringwar\ServletInitializer.class
